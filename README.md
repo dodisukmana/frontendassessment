@@ -2,18 +2,16 @@
 
 > Clone Female Daily Webpages
 
-## Quick Start
+## Read Me
 
 ``` bash
-# Install dependencies
-npm install express body-parser sequelize pg pg-hstore express-handlebars
-npm install -D handlebars@4.5.0
+# Requirements
+Nodejs version v.12.14.1
 
-# Serve on localhost:3000
-npm start
+# How to Run
+Download as ZIP and extract to specified folder
+Type in command prompt "npm start"
 
-# Facebook API App ID Config on views/facebook.handlebars
-change this => appId      : '{your-app-id}'
 ```
 
 ## Author
